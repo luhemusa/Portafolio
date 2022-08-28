@@ -1,0 +1,70 @@
+.welcome-text{
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.link-descarga{
+    text-align: start;
+}
+
+.link-descarga a{
+    margin-top: 5px;
+    color: #4e50c5 !important;
+}
+
+.link-descarga a:hover{
+    font-size: 21px;
+}
+
+.icons-header{
+    display: flex;
+    flex-direction: row;
+    padding: 5px 0px
+}
+
+.container-link-redes{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 10px 10px;
+}
+
+.container-link-redes a{
+    margin: 0px 10px
+}
+
+.form-contact{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+}
+
+.contact-data h5{
+    margin: 0px 10px;
+}
+
+.contact-data a:hover{
+    color: #4e50c5;
+    cursor: pointer;
+}
+
+.form-main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.link-github{
+    color: #4e50c5 !important;
+    font-weight: bold;
+}
+
+.link-github:hover{
+    color: #7678f7 !important;
+}
+
+
+
+
+
